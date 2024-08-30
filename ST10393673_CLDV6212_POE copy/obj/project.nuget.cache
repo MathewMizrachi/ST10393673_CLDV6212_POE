@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "SP319lDpa60NbPLuLlICGRrIh+queb4y70PywCV3czAzQZLWEd4u0PcCtumInVk5fcPDpHWoD8hEFBbrekLfjA==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\Desktop - Mathew’s MacBook Pro\\Computer Science\\Year 2 Semester 2\\CLDV6212\\Projects\\ST10393673_CLDV6212_POE\\ST10393673_CLDV6212_POE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\azure.data.tables\\12.9.0\\azure.data.tables.12.9.0.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\azure.storage.blobs\\12.21.2\\azure.storage.blobs.12.21.2.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\azure.storage.common\\12.20.1\\azure.storage.common.12.20.1.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\azure.storage.files.shares\\12.19.1\\azure.storage.files.shares.12.19.1.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\azure.storage.queues\\12.19.1\\azure.storage.queues.12.19.1.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\system.io.hashing\\6.0.0\\system.io.hashing.6.0.0.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\mathewmizrachi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

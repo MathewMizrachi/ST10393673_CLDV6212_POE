@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE_Functions\obj\Release\net8.0\ST10393673_CLDV6212_POE_Functions.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE_Functions\obj\Release\net8.0\ST10393673_CLDV6212_POE_Functions.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE_Functions\obj\Release\net8.0\ST10393673_CLDV6212_POE_Functions.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE_Functions\obj\Release\net8.0\ST10393673_CLDV6212_POE_Functions.AssemblyInfo.cs
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE_Functions\obj\Release\net8.0\ST10393673_CLDV6212_POE_Functions.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE_Functions\obj\Release\net8.0\ST10393673_CLDV6212_POE_Functions.dll
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE_Functions\obj\Release\net8.0\refint\ST10393673_CLDV6212_POE_Functions.dll
+\\Mac\Home\Desktop\Desktop - Mathew’s MacBook Pro\Computer Science\Year 2 Semester 2\CLDV6212\Projects\ST10393673_CLDV6212_POE_Functions\obj\Release\net8.0\ST10393673_CLDV6212_POE_Functions.pdb
